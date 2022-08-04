@@ -22,3 +22,15 @@ Reponce:<br>
 ```
 
 ### And another urls in server.go file.
+
+
+## Install
+
+```
+git clone https://github.com/azizovrafael/Golang_Ecko_RestFull 
+cd Golang_Ecko_RestFull
+```
+```
+go mod init api
+go get github.com/labstack/echo/v4
+```
